@@ -1,0 +1,17 @@
+commit f28e36097690e5cc551cd196951e3a334ff64bd3
+Author: natalia <natalisgp@gmail.com>
+Date:   Sun Jan 14 18:15:22 2018 +0100
+
+    añadido esqueleto
+
+commit a78081ed43e8dc93c2b8be016100ba63d9390809
+Author: natalia <natalisgp@gmail.com>
+Date:   Sun Jan 14 18:11:20 2018 +0100
+
+    Modificado la página
+
+commit f89ea6e4c4cea478a039002c42da7cf7266eb915
+Author: natalia <natalisgp@gmail.com>
+Date:   Sun Jan 14 17:48:24 2018 +0100
+
+    Iniciamos
